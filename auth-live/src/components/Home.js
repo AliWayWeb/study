@@ -1,12 +1,12 @@
 import React, { useContext } from 'react'
-import UserContext from "../context/UserContext"
 
 export const Home = () => {
-    const { name } = useContext(UserContext)
 
     return (
         <div className="container">
-            <h4>{ name }</h4>
+            <h4>Hello user if you not register, you should register.
+                If you have account but not loginned, you should login)
+        </h4>
         </div>
     )
 }
