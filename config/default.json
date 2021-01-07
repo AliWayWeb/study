@@ -1,0 +1,5 @@
+{
+    "url": "mongodb+srv://Ali_0077:909074402@cluster0.a8zz7.mongodb.net/user?retryWrites=true&w=majority",
+    "port": 8000,
+    "jwtSecret": "909074402ali!"
+}
